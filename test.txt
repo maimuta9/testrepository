@@ -1,3 +1,4 @@
 Best Test Readme file.
 Best Test 2
-Best Test 3
+Best Test 3 - Branch
+Best Test 4 - Clone
